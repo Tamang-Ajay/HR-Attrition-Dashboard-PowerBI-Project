@@ -1,6 +1,6 @@
 # HR-Attrition-Dashboard-(PowerBI)
 # 👥📉 HR Atttrition Dashboard
-<a href="#">Click Here To View Project</a>
+<a href="https://github.com/Tamang-Ajay/HR-Attrition-Dashboard-PowerBI-Project/blob/main/HR%20Attrition%20Dashboard.png">Click Here To View Project</a>
 
 ## 📌Overview:
 I have created an interactive HR Attrition Dashboard to analyze the employee attrition trends and identify key factors influencing employee turnover. The dashboard provides insights of attrition by department, age-group, gender, salary range and tenure group.
@@ -22,7 +22,7 @@ The goal was to design a dashboard that tracks employee turnover trends and help
 - Attrition by Tenure Group
 
 ## 💡Impact:
--Provided actionable insights to reduce employee attrition
+- Provided actionable insights to reduce employee attrition
 - Improved HR reporting efficiency through interactive visualization
 - Supported strategic HR planning using data-driven insights
 
